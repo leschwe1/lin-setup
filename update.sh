@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ~/.zshrc ./zshrc
+cp ~/.zshrc ./.zshrc
 cp ~/.config/starship.toml ./starship.toml
 cp -r ~/.oh-my-zsh/custom/* ./custom/
 cp ~/.local/share/konsole/ls-std.profile ./ls-std.profile
