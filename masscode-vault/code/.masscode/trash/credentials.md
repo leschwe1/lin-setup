@@ -5,13 +5,13 @@ contents:
     language: plain_text
 createdAt: 1794938815180
 description: null
-folderId: 2
+folderId: null
 id: 3
-isDeleted: 0
+isDeleted: 1
 isFavorites: 0
 name: credentials
 tags: []
-updatedAt: 1794938839913
+updatedAt: 1794945130712
 ---
 
 ## Fragment: sc22

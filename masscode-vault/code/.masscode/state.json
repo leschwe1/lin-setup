@@ -30,7 +30,7 @@
           {
             "id": 1,
             "label": "Fragment 1",
-            "language": "plain_text"
+            "language": "sh"
           },
           {
             "id": 2,
@@ -42,11 +42,11 @@
         "description": null,
         "isDeleted": 0,
         "isFavorites": 0,
-        "mtimeMs": 1794938601501.0771,
+        "mtimeMs": 1794939138276.647,
         "name": "pip not working in venv",
-        "size": 402,
+        "size": 386,
         "tags": [],
-        "updatedAt": 1794938601501
+        "updatedAt": 1794939138276
       }
     },
     {
@@ -77,7 +77,7 @@
       }
     },
     {
-      "filePath": "java_specchio/credentials.md",
+      "filePath": ".masscode/trash/credentials.md",
       "id": 3,
       "meta": {
         "contents": [
@@ -106,18 +106,18 @@
           {
             "id": 7,
             "label": "Fragment 1",
-            "language": "plain_text"
+            "language": "sh"
           }
         ],
         "createdAt": 1794938863705,
         "description": null,
         "isDeleted": 0,
         "isFavorites": 0,
-        "mtimeMs": 1794938879343.4294,
+        "mtimeMs": 1794939131016.613,
         "name": "send ssh key to server",
-        "size": 297,
+        "size": 281,
         "tags": [],
-        "updatedAt": 1794938879343
+        "updatedAt": 1794939131017
       }
     },
     {
@@ -128,23 +128,41 @@
           {
             "id": 8,
             "label": "Fragment 1",
-            "language": "plain_text"
+            "language": "sh"
           }
         ],
         "createdAt": 1794938886406,
         "description": null,
         "isDeleted": 0,
         "isFavorites": 0,
-        "mtimeMs": 1794938900473.5322,
+        "mtimeMs": 1794939123302.577,
         "name": "ssh connecttion with port fwd",
-        "size": 320,
+        "size": 304,
         "tags": [],
-        "updatedAt": 1794938900473
+        "updatedAt": 1794939123302
       }
     },
     {
       "filePath": "uzh/geofiles location.md",
-      "id": 6
+      "id": 6,
+      "meta": {
+        "contents": [
+          {
+            "id": 9,
+            "label": "Fragment 1",
+            "language": "plain_text"
+          }
+        ],
+        "createdAt": 1794938908835,
+        "description": null,
+        "isDeleted": 0,
+        "isFavorites": 0,
+        "mtimeMs": 1794938921973.633,
+        "name": "geofiles location",
+        "size": 301,
+        "tags": [],
+        "updatedAt": 1794938921973
+      }
     }
   ],
   "tags": [],

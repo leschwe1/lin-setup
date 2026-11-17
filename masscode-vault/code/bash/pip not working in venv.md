@@ -2,7 +2,7 @@
 contents:
   - id: 1
     label: Fragment 1
-    language: plain_text
+    language: sh
   - id: 2
     label: Fragment 2
     language: plain_text
@@ -14,11 +14,11 @@ isDeleted: 0
 isFavorites: 0
 name: pip not working in venv
 tags: []
-updatedAt: 1794938601501
+updatedAt: 1794939138276
 ---
 
 ## Fragment: Fragment 1
-```plain_text
+```sh
 python -m ensurepip --upgrade
 ```
 
