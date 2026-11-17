@@ -1,22 +1,150 @@
 {
   "counters": {
-    "contentId": 2,
-    "folderId": 1,
-    "snippetId": 1,
+    "contentId": 9,
+    "folderId": 3,
+    "snippetId": 6,
     "tagId": 0
   },
   "folderIdByPath": {
-    "bash": 1
+    "bash": 1,
+    "java_specchio": 2,
+    "uzh": 3
   },
   "folderUi": {
     "1": {
+      "isOpen": 0
+    },
+    "2": {
+      "isOpen": 0
+    },
+    "3": {
       "isOpen": 0
     }
   },
   "snippets": [
     {
       "filePath": "bash/pip not working in venv.md",
-      "id": 1
+      "id": 1,
+      "meta": {
+        "contents": [
+          {
+            "id": 1,
+            "label": "Fragment 1",
+            "language": "plain_text"
+          },
+          {
+            "id": 2,
+            "label": "Fragment 2",
+            "language": "plain_text"
+          }
+        ],
+        "createdAt": 1794938565409,
+        "description": null,
+        "isDeleted": 0,
+        "isFavorites": 0,
+        "mtimeMs": 1794938601501.0771,
+        "name": "pip not working in venv",
+        "size": 402,
+        "tags": [],
+        "updatedAt": 1794938601501
+      }
+    },
+    {
+      "filePath": "java_specchio/startup.md",
+      "id": 2,
+      "meta": {
+        "contents": [
+          {
+            "id": 3,
+            "label": "Startup",
+            "language": "sh"
+          },
+          {
+            "id": 4,
+            "label": "Login Credetntials",
+            "language": "plain_text"
+          }
+        ],
+        "createdAt": 1794938734829,
+        "description": null,
+        "isDeleted": 0,
+        "isFavorites": 0,
+        "mtimeMs": 1794938813191.1074,
+        "name": "startup",
+        "size": 642,
+        "tags": [],
+        "updatedAt": 1794938813191
+      }
+    },
+    {
+      "filePath": "java_specchio/credentials.md",
+      "id": 3,
+      "meta": {
+        "contents": [
+          {
+            "id": 6,
+            "label": "sc22",
+            "language": "plain_text"
+          }
+        ],
+        "createdAt": 1794938815180,
+        "description": null,
+        "isDeleted": 0,
+        "isFavorites": 0,
+        "mtimeMs": 1794938839913.2375,
+        "name": "credentials",
+        "size": 304,
+        "tags": [],
+        "updatedAt": 1794938839913
+      }
+    },
+    {
+      "filePath": "bash/send ssh key to server.md",
+      "id": 4,
+      "meta": {
+        "contents": [
+          {
+            "id": 7,
+            "label": "Fragment 1",
+            "language": "plain_text"
+          }
+        ],
+        "createdAt": 1794938863705,
+        "description": null,
+        "isDeleted": 0,
+        "isFavorites": 0,
+        "mtimeMs": 1794938879343.4294,
+        "name": "send ssh key to server",
+        "size": 297,
+        "tags": [],
+        "updatedAt": 1794938879343
+      }
+    },
+    {
+      "filePath": "bash/ssh connecttion with port fwd.md",
+      "id": 5,
+      "meta": {
+        "contents": [
+          {
+            "id": 8,
+            "label": "Fragment 1",
+            "language": "plain_text"
+          }
+        ],
+        "createdAt": 1794938886406,
+        "description": null,
+        "isDeleted": 0,
+        "isFavorites": 0,
+        "mtimeMs": 1794938900473.5322,
+        "name": "ssh connecttion with port fwd",
+        "size": 320,
+        "tags": [],
+        "updatedAt": 1794938900473
+      }
+    },
+    {
+      "filePath": "uzh/geofiles location.md",
+      "id": 6
     }
   ],
   "tags": [],
