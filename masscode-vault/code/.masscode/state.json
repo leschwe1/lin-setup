@@ -1,0 +1,24 @@
+{
+  "counters": {
+    "contentId": 2,
+    "folderId": 1,
+    "snippetId": 1,
+    "tagId": 0
+  },
+  "folderIdByPath": {
+    "bash": 1
+  },
+  "folderUi": {
+    "1": {
+      "isOpen": 0
+    }
+  },
+  "snippets": [
+    {
+      "filePath": "bash/pip not working in venv.md",
+      "id": 1
+    }
+  ],
+  "tags": [],
+  "version": 3
+}
